@@ -1,0 +1,17 @@
+{
+  "name": "week2Task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "tailwindcss": "^2.2.4"
+  }
+}
